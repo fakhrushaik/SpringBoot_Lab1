@@ -1,7 +1,7 @@
-# Spring Boot Multi-Page Web Application
+# Building Your First Spring Controller
 
 **Name:** Fakhruddin Shaik  
-**Student ID:** 15139187  
+**Student ID:** M15139187  
 
 ---
 
@@ -26,5 +26,31 @@ The application includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/fakhrushaik/SpringBoot_Lab1.git
+   cd SpringBoot_Lab1 
+   ```
+    
+2. Run the Application 
+   ```bash
+   mvn spring-boot:run
+   ```
+
+3. Open in your browser: 
+   http://localhost:8081/ → Homepage
+   http://localhost:8081/about → About page
+   ### ⚠️ Note: The app runs on port 8081 instead of 8080 due to a port conflict. 
+
+--- 
+
+## 🖼️ Pages
+
+* Homepage (index.html):
+  Displays: “Hello, my name is Fakhruddin Shaik.”
+
+* About Page (about.html):
+  Displays:
+
+  * Full name: Fakhruddin Shaik 
+  * Student ID: 15139187 
+  * Short bio (1–2 sentences) 
+  * Contact details (email, GitHub)

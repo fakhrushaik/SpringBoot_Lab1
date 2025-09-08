@@ -45,12 +45,11 @@ The application includes:
 ## 🖼️ Pages
 
 - Homepage (index.html):  
-  * Displays: “Hello, my name is Fakhruddin Shaik.”
+  Displays: “Hello, my name is Fakhruddin Shaik.”
 
 - About Page (about.html):  
-  * Displays:  
-
+  Displays:
    * Full name: Fakhruddin Shaik 
-   * Student ID: 15139187 
+   * Student ID: M15139187 
    * Short bio (1–2 sentences) 
    * Contact details (email, GitHub)

@@ -44,11 +44,11 @@ The application includes:
 
 ## 🖼️ Pages
 
-* Homepage (index.html):
+- Homepage (index.html):  
   * Displays: “Hello, my name is Fakhruddin Shaik.”
 
-* About Page (about.html):
-  * Displays:
+- About Page (about.html):  
+  * Displays:  
 
    * Full name: Fakhruddin Shaik 
    * Student ID: 15139187 

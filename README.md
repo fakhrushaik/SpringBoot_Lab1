@@ -36,8 +36,8 @@ The application includes:
    ```
 
 3. Open in your browser: 
-   http://localhost:8081/ → Homepage
-   http://localhost:8081/about → About page
+   * http://localhost:8081/ → Homepage
+   * http://localhost:8081/about → About page
    ### ⚠️ Note: The app runs on port 8081 instead of 8080 due to a port conflict. 
 
 --- 
